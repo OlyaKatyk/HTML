@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.box-section1{
+    height: 50vh;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box-section2{
+    height: 50vh;
+    color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pink{
+    background-color:lightcoral;
+}
+#grey{
+    background-color: grey;
+}
