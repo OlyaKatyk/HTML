@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.box{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+#yellow{
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+#blue{
+    background-color: dodgerblue;
+    display: flex;
+    flex-direction: column;
+}
+#green{
+    background-color: forestgreen
+    display: flex;
+    flex-direction: column;
+}
