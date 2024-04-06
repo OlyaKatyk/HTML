@@ -22,7 +22,7 @@ html{
     flex-direction: column;
 }
 #green{
-    background-color: forestgreen
+    background-color: forestgreen;
     display: flex;
     flex-direction: column;
 }
