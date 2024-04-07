@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+header{
+    height: 9.75vh;
+    background: #D9D9D9;
+}
+div{
+    height:83.76vh;
+    width: 33.33vw;
+}
+.box-1{
+    background: linear-gradient(0deg, #A5A5A3 0%, #A5A5A3 100%), linear-gradient(0deg, #979796 0%, #979796 100%), #979796;
+}
+.box-2{
+    background: linear-gradient(0deg, #BABAB9 0%, #BABAB9 100%), linear-gradient(0deg, #7F816A 0%, #7F816A 100%), #979796;
+}
+section{
+    height: 83.76vh;
+    background: #61615C;
+}
+footer{
+    height: 6.49vh;
+    background: #D9D9D9;
+}
