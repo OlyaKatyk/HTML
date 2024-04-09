@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
+body{
+    width:100%;
+    height: 100vh;
+    margin: 0;
+    background-image:url("image 1.png");
+    font-family: "KoHo", sans-serif;
+    font-weight: 400;
+}
+section{
+    margin-top: 294px;
+    margin-bottom: 295px;
+    margin-left: 227px;
+    width:1058.4px;
+    height: 392.8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right{
+    width: 529px;
+    height: 393px;
+    background: #FAF9F7;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.image1 {
+    width: 529px;
+    height: 393px;
+    background-image: url("image 2.png");
+}
+.H1{
+    color: #000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: KoHo;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.P1{
+    color: #000;
+    font-family: KoHo;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+button{
+    width: 409px;
+    height: 76px;
+    color: #000;
+    font-family: KoHo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.page2{
+    margin-top: 294px;
+    margin-bottom: 295px;
+    margin-left: 227px;
+    width:1058.4px;
+    height: 392.8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-family: KoHo;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
