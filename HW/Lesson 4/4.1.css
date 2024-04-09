@@ -3,7 +3,6 @@ body{
     width:100%;
     height: 100vh;
     margin: 0;
-    background-image:url("image 1.png");
     font-family: "KoHo", sans-serif;
     font-weight: 400;
 }
@@ -32,6 +31,12 @@ section{
     width: 529px;
     height: 393px;
     background-image: url("image 2.png");
+}
+.page1{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-image:url("image 1.png");
 }
 .H1{
     color: #000;
@@ -79,4 +84,10 @@ button{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+.image2{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-image:url("image3.png");
 }
