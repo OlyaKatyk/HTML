@@ -2,10 +2,27 @@ body{
     margin: 0;
     height: 100%;
 }
+.logo{
+    width: 170px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+.username{
+    text-overflow: ellipsis;
+    width: 75%;
+    height: 6vh;
+    margin-bottom: 1vh;
+}
+.pass{
+    width: 75%;
+    height: 6vh;
+    margin-bottom: 2vh;
+}
 section{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:center;
 }
 .flexbox{
     width: 400px;
@@ -24,8 +41,40 @@ section{
     width: 350px;
     height: 70vh;
 }
-
-
+.href{
+    text-decoration: none;
+}
+.fcb{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5vh;
+}
+.frgpas{
+    text-decoration: none;
+}
+.sign{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 3px;
+    width: 350px;
+    height: 10vh;
+    margin-top: 4vh;
+}
+.reg{
+    text-decoration: none;
+}
+button{
+    width: 78%;
+    height: 6vh;
+    margin-bottom: 4vh;
+    color: white;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    border-color: dodgerblue;
+}
 
 
 
