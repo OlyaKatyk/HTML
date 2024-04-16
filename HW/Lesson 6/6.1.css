@@ -1,0 +1,49 @@
+.link{
+    display: flex;
+    justify-content:start;
+    padding: 10px;
+}
+.links{
+    width: 65px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+    align-items: center;
+    border-radius: 10px;
+    background-color: blue;
+}
+.banner{
+    height: 35vh;
+    display: flex;
+    justify-content: end;
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.article{
+    height: 35vh;
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 50% 50%;
+    grid-gap: 5px;
+    margin: 10px;
+}
+.articles{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+.footer{
+    height: 50px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
